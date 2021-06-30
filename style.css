@@ -43,7 +43,7 @@ a {
 a:hover {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
-  color: #007b7c;
+  color: #2eaeaf;
 }
 
 .icons {
@@ -95,18 +95,16 @@ ul {
 }
 
 .btn {
-  background-color: #ababab;
-  border: 2px solid #4B5C81;
-  color: white;
+  background-color: black;
+  color: #e6e6e6;
   font-weight: bold;
   padding: 8px 8px;
 }
 
 .btn:hover {
-  background-color: #ababab;
-  border: 2px solid #007b7c;
+  background-color: #2eaeaf;
+  color: #e6e6e6;
   font-weight: bold;
-  color: white;
 }
 
 @media (max-width: 960px) {

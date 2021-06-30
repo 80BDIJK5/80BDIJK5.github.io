@@ -43,7 +43,7 @@ a {
 a:hover {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
-  color: #2eaeaf;
+  color: #024d4e;
 }
 
 .icons {
@@ -102,7 +102,7 @@ ul {
 }
 
 .btn:hover {
-  background-color: #2eaeaf;
+  background-color: #024d4e;
   color: #e6e6e6;
   font-weight: bold;
 }

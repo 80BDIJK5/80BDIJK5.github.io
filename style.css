@@ -95,16 +95,17 @@ ul {
 }
 
 .btn {
-  background-color: #4B5C81;
-  color: #e6e6e6;
+  background-color: transparent;
+  border: 2px solid #4B5C81;
+  color: #273043;
   font-weight: bold;
   padding: 8px 8px;
 }
 
 .btn:hover {
-  background-color: #007b7c;
-  color: #e6e6e6;
-  font-weight: bold;
+  background-color: transparent;
+  border: 2px solid #007b7c;
+  color: #273043;
 }
 
 @media (max-width: 960px) {

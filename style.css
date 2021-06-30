@@ -14,14 +14,14 @@ h1, h2 {
 
 h1 {
   font-size: 18px;
-  border-bottom: 2px solid #00adaf;
+  border-bottom: 2px solid #2eaeaf;
   display: inline-block;
   margin-bottom: 25px;
 }
 
 h2 {
   font-size: 18px;
-  border-bottom: 2px solid #00adaf;
+  border-bottom: 2px solid #2eaeaf;
   display: inline-block;
   margin-bottom: 15px;
 }
@@ -43,12 +43,12 @@ a {
 a:hover {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
-  color: #024d4e;
+  color: #2eaeaf;
 }
 
 .icons {
   font-size: 25px;
-  color: #4B5C81;
+  color: #2e2eaf;
 }
 
 li {
@@ -95,14 +95,14 @@ ul {
 }
 
 .btn {
-  background-color: black;
+  background-color: #2e2eaf;
   color: #e6e6e6;
   font-weight: bold;
   padding: 8px 8px;
 }
 
 .btn:hover {
-  background-color: #024d4e;
+  background-color: #2eaeaf;
   color: #e6e6e6;
   font-weight: bold;
 }

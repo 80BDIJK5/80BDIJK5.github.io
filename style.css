@@ -75,7 +75,7 @@ ul {
 }
 
 .container {
-  width: 600px;
+  width: 500px;
   margin: 0 auto;
   margin-top: 20px;
 }
@@ -91,7 +91,7 @@ ul {
  }
 
 .profile-card:hover{
-    box-shadow: 1px 2px 6px #d6d6d6;
+    box-shadow: 1px 2px 2px #d6d6d6;
     transition:  box-shadow .6s ease-in;
 }
 
@@ -110,12 +110,12 @@ ul {
 
 @media (max-width: 960px) {
   .container {
-    width: 600px;
+    width: 500px;
   }
 }
 @media (max-width: 720px) {
   .container {
-    width: 500px;
+    width: 450px;
   }
 }
 @media (max-width: 540px) {

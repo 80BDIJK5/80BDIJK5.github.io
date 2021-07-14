@@ -90,6 +90,12 @@ ul {
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
  }
 
+.projects {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
 .btn {
   background-color: #171757;
   color: #e6e6e6;
@@ -104,11 +110,6 @@ ul {
   background-color: #2eaeaf;
   color: #e6e6e6;
   font-weight: bold;
-}
-
-.projects {
-  display: flex;
-  flex-direction: column;
 }
 
 @media (max-width: 960px) {

@@ -1,7 +1,7 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Roboto:300,400,500,700");
 
 body {
-  background-color: #FAFAFA;
+  background-color: #E5e5e5;
   background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
   background-image: url(images/background.jpeg);
 }
@@ -29,7 +29,7 @@ h2 {
 
 p {
   font-family: 'Open Sans', sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: lighter;
   margin-bottom: 40px;
 }
@@ -75,7 +75,7 @@ ul {
 }
 
 .container {
-  width: 500px;
+  width: 600px;
   margin: 0 auto;
   margin-top: 20px;
 }

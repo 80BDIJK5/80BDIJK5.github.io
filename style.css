@@ -95,8 +95,9 @@ ul {
   color: #e6e6e6;
   font-size: 12px;
   font-weight: bold;
+  width: 80%;
   padding: 8px 8px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .btn:hover {

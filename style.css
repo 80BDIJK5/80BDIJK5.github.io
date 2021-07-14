@@ -91,9 +91,7 @@ ul {
  }
 
 .projects {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
+  display: inline-block;
 }
 
 .btn {
